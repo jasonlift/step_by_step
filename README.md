@@ -3,6 +3,7 @@
 ## 投资与思考
 - [202010-基于价值的投机套利](./inventment_reflection/基于价值的投机套利.md)
 - [202011-投资决策的思维框架](./inventment_reflection/投资决策的思维框架.md)
+- [202011-笨人的投资思路](./inventment_reflection/笨人的投资思路.md)
 
 ## 技术思路梳理
 - [202011-编写单元测试的注意事项](./tech_talk/编写单元测试的注意事项.md)
