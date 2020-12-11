@@ -17,3 +17,6 @@
 - [202010-骨科医疗器械跟踪研究](./company_researches/骨科医疗器械跟踪研究.md)
 - [201125-迈瑞医疗跟踪研究](./company_researches/迈瑞医疗跟踪研究.md)
 - [201126-MINISO的投资研究](./company_researches/MINISO的投资研究.md)
+
+## 读书笔记
+- [零售的哲学](./reading/零售的哲学.md)
