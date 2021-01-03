@@ -8,15 +8,20 @@
 - [成长性资产的筛选逻辑](./inventment_reflection/成长性资产的筛选逻辑.md)
 - [量化交易的初始化体系](./inventment_reflection/量化交易的初始化体系.md)
 - [201126-认知变现](./inventment_reflection/认知变现.md)
+- [201212-期权交易入门](./inventment_reflection/期权交易入门.md)
+- [201223-葛卫东的投资理念](./inventment_reflection/葛卫东的投资理念.md)
 
 ## 技术思路梳理
 - [202011-编写单元测试的注意事项](./tech_talk/编写单元测试的注意事项.md)
 - [202011-DDD的战术设计与实践细节](./tech_talk/DDD的战术设计与实践细节.md)
+- [202012-画架构图](./tech_talk/画架构图.md)
 
 ## 企业研究
 - [202010-骨科医疗器械跟踪研究](./company_researches/骨科医疗器械跟踪研究.md)
 - [201125-迈瑞医疗跟踪研究](./company_researches/迈瑞医疗跟踪研究.md)
 - [201126-MINISO的投资研究](./company_researches/MINISO的投资研究.md)
+- [201231-可转债投资策略](./company_researches/可转债投资策略.md)
 
 ## 读书笔记
 - [零售的哲学](./reading/零售的哲学.md)
+- [穷查理宝典的启示]()
