@@ -10,7 +10,8 @@
 - [201126-认知变现](./inventment_reflection/认知变现.md)
 - [201212-期权交易入门](./inventment_reflection/期权交易入门.md)
 - [201223-葛卫东的投资理念](./inventment_reflection/葛卫东的投资理念.md)
-
+- [※210117-交易体系的三角形](./inventment_reflection/交易体系的三角形.md)
+  
 ## 技术思路梳理
 - [202011-编写单元测试的注意事项](./tech_talk/编写单元测试的注意事项.md)
 - [202011-DDD的战术设计与实践细节](./tech_talk/DDD的战术设计与实践细节.md)
@@ -24,4 +25,3 @@
 
 ## 读书笔记
 - [零售的哲学](./reading/零售的哲学.md)
-- [穷查理宝典的启示]()
