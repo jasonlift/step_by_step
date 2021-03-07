@@ -12,6 +12,7 @@
 - [201223-葛卫东的投资理念](./inventment_reflection/葛卫东的投资理念.md)
 - [※210117-交易体系的三角形](./inventment_reflection/交易体系的三角形.md)
 - [210131-DCF估值法](./inventment_reflection/DCF估值法.md)
+- [210213-雷公的投资视频笔记](./inventment_reflection/雷公的投资视频笔记.md)
   
 ## 技术思路梳理
 - [202011-编写单元测试的注意事项](./tech_talk/编写单元测试的注意事项.md)
